@@ -1,3 +1,7 @@
 # tissue_classification
 transformer-based tissue classification model
-code will be published soon!
+
+jupyter notebook includes data processing, model details and visualization
+
+
+data.rar contains the original data
